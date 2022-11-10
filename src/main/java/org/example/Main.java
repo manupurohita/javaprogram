@@ -11,6 +11,7 @@ public static void main(String[] args){
     }
     else {
      System.out.println("bad");
+        System.out.println("xyz");
     }
 
 
